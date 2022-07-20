@@ -8332,10 +8332,10 @@ jose@^1.27.2:
   dependencies:
     "@panva/asn1.js" "^1.0.0"
 
-jotai@1.7.3:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/jotai/-/jotai-1.7.3.tgz#b27259f818daa39757c0177b952d416141c28849"
-  integrity sha512-7oyKS1cUlwO8bLvhrSrw3/G2tiprmUjt0eK19z4LMiyScsaeqnFwcr+3xaM6N8Ej6iGd0MmBlGhQsmJcnV6+Fw==
+jotai@1.7.6:
+  version "1.7.6"
+  resolved "https://registry.yarnpkg.com/jotai/-/jotai-1.7.6.tgz#234165b0b139e11ef40e660e8fa1b420b23bb24b"
+  integrity sha512-D3R5f6OvwUPUyTPQY3wGP800nb6bDEOl/mqftjxg3gcHVITeFcldr9W9IBK+gXsow357vhNXuci/LfD+rl92PA==
 
 js-levenshtein@^1.1.6:
   version "1.1.6"
